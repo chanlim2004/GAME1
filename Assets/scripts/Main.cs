@@ -1,6 +1,9 @@
 using UnityEngine;
 
-public class Main
+public class Main : MonoBehaviour
 {
-    
+    void Start()
+    {
+
+    }
 }
